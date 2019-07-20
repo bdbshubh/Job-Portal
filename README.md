@@ -1,6 +1,19 @@
-# learn-sails
+# Job-Portal
 
 a [Sails v1](https://sailsjs.com) application
+
+# About
+
+This is the Job-portal project with numbers of APIs in it. This project don't have any frontend.
+Project will goes around three terms: Company, Jobs, Candidate.
+1. Each company may post multiple jobs.
+2. Each candidate may apply for multiple jobs through application.
+
+# Pre-requisites
+
+1. node.js and npm
+2. Mongodb and connectivity to mongodb is must before running this project.
+3. All the ports used in this project are default ports. If you change those ports at the time of installations then please do the same in the project as well.
 
 
 ### Links
